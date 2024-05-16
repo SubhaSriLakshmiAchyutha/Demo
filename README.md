@@ -1,2 +1,2 @@
 # Demo
-Demo for creating new respiratory
+Demo for creating new repository
