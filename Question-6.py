@@ -1,4 +1,3 @@
-
 sentence = "I am a teacher and I love to inspire and teach people"
 list = sentence.split(' ')          #Split function by default uses whiteSpaces as the separator in the string sentence
 print(list)
